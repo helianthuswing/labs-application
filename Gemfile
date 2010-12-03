@@ -2,19 +2,20 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.0.0'
 gem 'haml'
-gem 'json'
 gem 'mysql'
-gem 'nokogiri'
-gem 'jpmobile'
+
+#gem 'json'
+#gem 'nokogiri'
+#gem 'jpmobile'
 
 #gem 'bin'
 #gem 'mongo'
 #gem 'mongoid'
 #gem 'bson_ext'
 
-gem 'paperclip'
-gem 'will_paginate'
-gem 'memcache-client'
+#gem 'paperclip'
+#gem 'will_paginate'
+#gem 'memcache-client'
 
 #gem 'acts_as_tree'
 #gem 'acts_as_list'
